@@ -5,7 +5,7 @@ cells, and coarse, cloud-gapped satellite-like columns (one overpass per day,
 ~2.4 km blocks, last valid value carried forward with its age).
 
 Replace this module with real loaders (Sentinel-5P / MODIS / Landsat / IoT
-database / weather API) that return the same columns.
+database / weather API) that return the same columns.,
 """
 import numpy as np
 import pandas as pd
