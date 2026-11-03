@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+plotly
+streamlit
+paho-mqtt
